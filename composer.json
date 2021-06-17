@@ -1,0 +1,9 @@
+{
+    "name": "atombunker/PIMGento-API",
+    "description": "Akeneo connector for Magento 1",
+    "require":{
+      "php-http/guzzle6-adapter": "^2.0",
+      "akeneo/api-php-client": "^6.0"
+    },
+    "type": "magento-module"
+}
